@@ -5,5 +5,5 @@ bloques*/
  * fslkfjsdfjsdlkfjsd
  * kjdfskjfhsdkjfhsdjkf
  */
- let numero = 42 ;//esto es un numero
- console.log(numero);
+ let numeros = 42 ; //esto es un numero
+ console.log(numeros);
